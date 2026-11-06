@@ -1,0 +1,40 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261006235502
+Username: MIKHEIL\mikhe
+RunAs User: MIKHEIL\mikhe
+Configuration Name: 
+Machine: MIKHEIL (Microsoft Windows NT 10.0.26300.0)
+Host Application: powershell.exe -NoProfile -ExecutionPolicy Bypass -File D:\OSPanel\home\cyberspace\scripts\cyber-news\run.ps1
+Process ID: 21664
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Новых материалов: 2 -> news/2026/october
+Из 2 материалов в ленте опубликован 1.
+
+- **Опубликовано:** «OpenAI-მ Moonshot AI-სთან დაკავშირებული დისტილაციის კამპანია შეაჩერა» (тема ხელოვნური ინტელექტი, от
+ 6 октября). Файл: `news/2026/october/2026-10-06-openai-distillation.html`.
+- **Пропущено:** «Девять жизней. Способы закрепления вредоносов в Linux» (от 2 октября). Это платная статья «Для подписч
+иков», и новостного содержания в ней нет. Ссылка добавлена в `processed.json`, чтобы она не попадала в ленту повторно.
+
+Обновлены:
+- `news/processed.json` — создан, в нём обе ссылки.
+- `news/2026/october/index.html` — создан, в нём одна статья.
+- `news.html` — карточка вставлена между маркерами, плюс строка со ссылкой на архив месяцев.
+- `news/index.html` — список месяцев, ОКТОБЕР 2026, 1 новость.
+- `archive.html` — строка со ссылкой на архив месяцев.
+- `index.html` — блок «უახლესი სიახლეები» на главной.
+
+Затронут только октябрь 2026, других месяцев в ленте не было. После записи я исправил опечатку в тексте статьи: между сл
+овами не было пробела.
+**********************
+Windows PowerShell transcript end
+End time: 20261006235553
+**********************

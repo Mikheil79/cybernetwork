@@ -1,0 +1,218 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261009230001
+Username: MIKHEIL\mikhe
+RunAs User: MIKHEIL\mikhe
+Configuration Name: 
+Machine: MIKHEIL (Microsoft Windows NT 10.0.26300.0)
+Host Application: powershell.exe -NoProfile -ExecutionPolicy Bypass -File D:\OSPanel\home\cyberspace\scripts\cyber-news\run.ps1
+Process ID: 27464
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+PS>TerminatingError(Invoke-WebRequest): "
+
+
+    
+    HTTP 502
+    
+    
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    
+
+
+    
+        502 Error
+        Bad gateway
+
+        
+            The connection to site xakep.ru is not established - it does not respond.
+            Try accessing the site xakep.ru later or contact administration of the site.
+        
+
+        
+            
+                IP: 188.169.79.56
+                Request: GET L3RhZy93aW5kb3dzL2ZlZWQv
+                Request ID: 69898844c0d367d30146e12bcfa1879b
+                Guru meditation: Y0RZTk1PNXhDd0lMWjVmZ0tFd0MySkp1WnhKMzY5NjU=
+            
+        
+
+    
+
+
+"
+>> TerminatingError(Invoke-WebRequest): "
+
+
+    
+    HTTP 502
+    
+    
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    
+
+
+    
+        502 Error
+        Bad gateway
+
+        
+            The connection to site xakep.ru is not established - it does not respond.
+            Try accessing the site xakep.ru later or contact administration of the site.
+        
+
+        
+            
+                IP: 188.169.79.56
+                Request: GET L3RhZy9saW51eC9mZWVkLw==
+                Request ID: 649ef04a2b91ce7ad61265493ce48a54
+                Guru meditation: WDVrWUtTd1ljMURrdlVtSkZtdEl5VEFacTRONDY1NDY=
+            
+        
+
+    
+
+
+"
+>> TerminatingError(Invoke-WebRequest): "
+
+
+    
+    HTTP 502
+    
+    
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    
+
+
+    
+        502 Error
+        Bad gateway
+
+        
+            The connection to site xakep.ru is not established - it does not respond.
+            Try accessing the site xakep.ru later or contact administration of the site.
+        
+
+        
+            
+                IP: 188.169.79.56
+                Request: GET L3RhZy9hbmRyb2lkL2ZlZWQv
+                Request ID: e6554f837e1aade740d958c7b3e7ee50
+                Guru meditation: UXljZjdDWWFrNUZMaHgyOThQTlBVdjV6akY3NTk5Mzk=
+            
+        
+
+    
+
+
+"
+>> TerminatingError(Invoke-WebRequest): "
+
+
+    
+    HTTP 502
+    
+    
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    
+
+
+    
+        502 Error
+        Bad gateway
+
+        
+            The connection to site xakep.ru is not established - it does not respond.
+            Try accessing the site xakep.ru later or contact administration of the site.
+        
+
+        
+            
+                IP: 188.169.79.56
+                Request: GET L3RhZy96aGVsZXpvL2ZlZWQv
+                Request ID: 7fb4cd02a334f3a0baa9282dc26978a8
+                Guru meditation: UUY5R05JVEtyWG5aa1VpcEJaQ1FucUR3UXVLMzIwNDE=
+            
+        
+
+    
+
+
+"
+>> TerminatingError(Invoke-WebRequest): "
+
+
+    
+    HTTP 502
+    
+    
+        html {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+        body {background-color:#fff;padding:15px;}
+        div.title {font-size:32px;font-weight:bold;line-height:1.2em;}
+        div.sub-title {font-size:25px;}
+        div.descr {margin-top:40px;}
+        div.footer {margin-top:80px;color:#777;}
+        div.guru {font-size:12px;color:#ccc;}
+    
+
+
+    
+        502 Error
+        Bad gateway
+
+        
+            The connection to site xakep.ru is not established - it does not respond.
+            Try accessing the site xakep.ru later or contact administration of the site.
+        
+
+        
+            
+                IP: 188.169.79.56
+                Request: GET L3RhZy9pc2t1c3N0dmVubnlqLWludGVsbGVrdC9mZWVkLw==
+                Request ID: 29899fb599548541637a9cbd0905e01c
+                Guru meditation: VEJ2R0dYSTM3ckdrV2Mwd0tVdjQ5YkdEQ0UxMDQ4MjQ=
+            
+        
+
+    
+
+
+"
+Новых материалов: 0 -> news/2026/october
+**********************
+Windows PowerShell transcript end
+End time: 20261009230043
+**********************

@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261012142928
+Username: MIKHEIL\mikhe
+RunAs User: MIKHEIL\mikhe
+Configuration Name: 
+Machine: MIKHEIL (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -File run.ps1 -FetchOnly -Since 2026-10-01
+Process ID: 2544
+PSVersion: 5.1.26100.9549
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9549
+BuildVersion: 10.0.26100.9549
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Новых материалов: 3 -> news/2026/october
+**********************
+Windows PowerShell transcript end
+End time: 20261012142931
+**********************

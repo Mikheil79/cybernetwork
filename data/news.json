@@ -1,0 +1,101 @@
+[
+	{
+		"id": "2026-10-12-claude-voice-data", "date": "2026-10-12", "cat": "ai", "read": 2,
+		"path": "news/2026/october/ai/2026-10-12-claude-voice-data.php",
+		"source": "https://xakep.ru/2026/10/12/claude-voice-data/",
+		"title": {
+			"GEO": "Anthropic Claude-ის მომხმარებლებს ხმოვანი მონაცემების გაზიარებას სთხოვს",
+			"ENG": "Anthropic asks Claude users to share voice data",
+			"RUS": "Anthropic просит пользователей Claude делиться голосовыми данными"
+		},
+		"summary": {
+			"GEO": "Anthropic Claude-ის მომხმარებლებს ნებაყოფლობით სთხოვს ხმოვანი საუბრების ჩანაწერების გაზიარებას მოდელების გასაწვრთნელად. ნებართვა ცალკე პარამეტრია, ნაგულისხმევად გამორთულია და მისი შეცვლა ნებისმიერ დროს შეიძლება.",
+			"ENG": "Anthropic is asking Claude users to voluntarily share recordings of voice conversations to train its models. The permission is a separate setting, off by default, and can be changed at any time.",
+			"RUS": "Anthropic предлагает пользователям Claude добровольно делиться записями голосовых разговоров для обучения моделей. Разрешение — отдельная настройка, по умолчанию она выключена, и её можно изменить в любой момент."
+		}
+	},
+	{
+		"id": "2026-10-12-cve-2026-107181", "date": "2026-10-12", "cat": "windows", "read": 3,
+		"path": "news/2026/october/windows/2026-10-12-cve-2026-107181.php",
+		"source": "https://xakep.ru/2026/10/12/cve-2026-107181/",
+		"title": {
+			"GEO": "Telegram Desktop-ში კრიტიკული შეცდომა გამოასწორეს, რომელიც ფაილების მოპარვის საშუალებას იძლეოდა",
+			"ENG": "Telegram Desktop fixes a critical bug that allowed file theft",
+			"RUS": "В Telegram Desktop исправили критическую ошибку, позволявшую красть файлы"
+		},
+		"summary": {
+			"GEO": "დაუცველობა CVE-2026-107181 მავნე ბმულზე გადასვლისას ლოკალური ფაილების მოპარვისა და ანგარიშის მიტაცების საშუალებას იძლეოდა. პრობლემა უკვე გამოსწორებულია, მომხმარებლებს კლიენტის განახლება ურჩევენ.",
+			"ENG": "The CVE-2026-107181 vulnerability made it possible to steal local files and hijack an account after the victim clicked a malicious link. The issue has been fixed, and users are advised to update the client.",
+			"RUS": "Уязвимость CVE-2026-107181 позволяла похитить локальные файлы и захватить аккаунт после перехода по вредоносной ссылке. Проблема уже устранена, пользователям советуют обновить клиент."
+		}
+	},
+	{
+		"id": "2026-10-06-openai-distillation", "date": "2026-10-06", "cat": "ai", "read": 2,
+		"path": "news/2026/october/ai/2026-10-06-openai-distillation.php",
+		"source": "https://xakep.ru/2026/10/06/openai-distillation/",
+		"title": {
+			"GEO": "OpenAI-მ Moonshot AI-სთან დაკავშირებული დისტილაციის კამპანია შეაჩერა",
+			"ENG": "OpenAI stops a distillation campaign linked to Moonshot AI",
+			"RUS": "OpenAI остановила кампанию по дистилляции, связанную с Moonshot AI"
+		},
+		"summary": {
+			"GEO": "OpenAI აცხადებს, რომ დაბლოკა მოდელების დაცული მსჯელობის ამოღების ფართომასშტაბიანი კამპანია. კომპანიის მონაცემებით, აქტივობა Kimi-ს დეველოპერ Moonshot AI-სთან ასოცირებულ ადამიანებს უკავშირდება.",
+			"ENG": "OpenAI says it has blocked a large-scale campaign to extract the protected reasoning of its models. According to the company, the activity is linked to people associated with Moonshot AI, the developer of Kimi.",
+			"RUS": "OpenAI заявляет, что заблокировала масштабную кампанию по извлечению защищённых рассуждений своих моделей. По данным компании, активность связана с людьми, связанными с Moonshot AI — разработчиком Kimi."
+		}
+	},
+	{
+		"id": "1", "date": "2026-09-30", "cat": "networks", "path": null,
+		"title": {"GEO": "5G ქსელი ქვეყანაში ფართოვდება", "ENG": "5G network expands across the country", "RUS": "Сеть 5G расширяется по всей стране"},
+		"summary": {
+			"GEO": "მობილური ოპერატორები აგრძელებენ 5G ინფრასტრუქტურის გაშლას ქალაქებში. ახალი თაობის ქსელი მომხმარებლებს სთავაზობს მნიშვნელოვნად მაღალ სიჩქარეს და დაბალ დაყოვნებას, რაც განსაკუთრებით მნიშვნელოვანია სტრიმინგისა და ონლაინ თამაშებისთვის.",
+			"ENG": "Mobile operators continue to roll out 5G infrastructure in cities. The new-generation network offers users much higher speeds and lower latency, which is especially important for streaming and online gaming.",
+			"RUS": "Мобильные операторы продолжают развёртывать инфраструктуру 5G в городах. Сеть нового поколения предлагает пользователям значительно более высокую скорость и низкие задержки, что особенно важно для стриминга и онлайн-игр."
+		}
+	},
+	{
+		"id": "2", "date": "2026-09-27", "cat": "ai", "icon": "hardware", "path": null,
+		"title": {"GEO": "ხელოვნური ინტელექტი განათლების სისტემაში", "ENG": "Artificial intelligence in education", "RUS": "Искусственный интеллект в системе образования"},
+		"summary": {
+			"GEO": "სულ უფრო მეტი სასწავლო დაწესებულება იყენებს AI ინსტრუმენტებს პერსონალიზებული სასწავლო გეგმების შესაქმნელად. მასწავლებლები აღნიშნავენ, რომ ტექნოლოგია ეხმარება მოსწავლეების ინდივიდუალური საჭიროებების უკეთ იდენტიფიცირებაში.",
+			"ENG": "More and more educational institutions are using AI tools to create personalised learning plans. Teachers note that the technology helps them better identify students' individual needs.",
+			"RUS": "Всё больше учебных заведений используют ИИ-инструменты для создания персонализированных учебных планов. Учителя отмечают, что технология помогает лучше выявлять индивидуальные потребности учеников."
+		}
+	},
+	{
+		"id": "3", "date": "2026-09-24", "cat": "gadgets", "icon": "vr", "path": null,
+		"title": {"GEO": "ვირტუალური რეალობის ახალი მოწყობილობები", "ENG": "New virtual reality devices", "RUS": "Новые устройства виртуальной реальности"},
+		"summary": {
+			"GEO": "ბაზარზე გამოჩნდა მსუბუქი და ხელმისაწვდომი VR ყურსასმენების ახალი თაობა. მწარმოებლები აქცენტს აკეთებენ კომფორტსა და უსადენო მუშაობაზე, რაც ტექნოლოგიას უფრო ფართო აუდიტორიისთვის ხდის მისაწვდომს.",
+			"ENG": "A new generation of lightweight, affordable VR headsets has arrived on the market. Manufacturers are focusing on comfort and wireless operation, making the technology accessible to a wider audience.",
+			"RUS": "На рынке появилось новое поколение лёгких и доступных VR-гарнитур. Производители делают акцент на комфорте и беспроводной работе, благодаря чему технология становится доступнее для широкой аудитории."
+		}
+	},
+	{
+		"id": "4", "date": "2026-09-20", "cat": "gadgets", "icon": "watch", "path": null,
+		"title": {"GEO": "სმარტ საათების ახალი თაობა", "ENG": "A new generation of smartwatches", "RUS": "Новое поколение умных часов"},
+		"summary": {
+			"GEO": "უახლესმა სმარტ საათებმა ჯანმრთელობის მონიტორინგის ფუნქციები კიდევ უფრო გააფართოვეს - ძილის ხარისხის ანალიზიდან დაწყებული, სისხლში ჟანგბადის დონის გაზომვამდე.",
+			"ENG": "The latest smartwatches have expanded their health-monitoring features even further - from sleep quality analysis to measuring blood oxygen levels.",
+			"RUS": "Новейшие умные часы ещё больше расширили функции мониторинга здоровья — от анализа качества сна до измерения уровня кислорода в крови."
+		}
+	},
+	{
+		"id": "5", "date": "2026-09-15", "cat": "regulation", "path": null,
+		"title": {"GEO": "დრონების გამოყენების ახალი წესები", "ENG": "New rules for drone use", "RUS": "Новые правила использования дронов"},
+		"summary": {
+			"GEO": "სამოქალაქო ავიაციის მარეგულირებელმა უწყებებმა განაახლეს დრონების ფრენის წესები, რაც მიზნად ისახავს საჰაერო სივრცის უსაფრთხოების გაზრდას კომერციული და სამოყვარულო გამოყენების პარალელურად.",
+			"ENG": "Civil aviation regulators have updated the rules for drone flights, aiming to improve airspace safety as both commercial and recreational use grows.",
+			"RUS": "Регуляторы гражданской авиации обновили правила полётов дронов, чтобы повысить безопасность воздушного пространства на фоне роста коммерческого и любительского использования."
+		}
+	},
+	{
+		"id": "6", "date": "2026-09-10", "cat": "science", "path": null,
+		"title": {"GEO": "კვანტური კომპიუტერები - შემდეგი ნაბიჯი", "ENG": "Quantum computers: the next step", "RUS": "Квантовые компьютеры: следующий шаг"},
+		"summary": {
+			"GEO": "კვლევითმა ლაბორატორიებმა გამოაცხადეს პროგრესი კვანტური გამოთვლების სტაბილურობის გაზრდაში. ექსპერტები აღნიშნავენ, რომ ტექნოლოგია ჯერ კიდევ ადრეულ ეტაპზეა, თუმცა პოტენციალი მნიშვნელოვანია მეცნიერებისა და კრიპტოგრაფიისთვის.",
+			"ENG": "Research labs have announced progress in making quantum computing more stable. Experts note that the technology is still at an early stage, but its potential for science and cryptography is significant.",
+			"RUS": "Исследовательские лаборатории сообщили о прогрессе в повышении стабильности квантовых вычислений. Эксперты отмечают, что технология пока на ранней стадии, но её потенциал для науки и криптографии значителен."
+		}
+	}
+]

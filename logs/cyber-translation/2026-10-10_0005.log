@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261010000501
+Username: MIKHEIL\mikhe
+RunAs User: MIKHEIL\mikhe
+Configuration Name: 
+Machine: MIKHEIL (Microsoft Windows NT 10.0.26300.0)
+Host Application: powershell.exe -NoProfile -ExecutionPolicy Bypass -File D:\OSPanel\home\cyberspace\scripts\cyber-translation\run.ps1
+Process ID: 30576
+PSVersion: 5.1.26100.9444
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9444
+BuildVersion: 10.0.26100.9444
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Новых файлов для перевода: 0
+**********************
+Windows PowerShell transcript end
+End time: 20261010000501
+**********************

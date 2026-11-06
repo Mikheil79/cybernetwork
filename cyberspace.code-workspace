@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../ip-monitoring"
+		},
+		{
+			"path": "../misha-tv"
+		},
+		{
+			"path": "../pc-monitoring"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"id": "hack", "date": "2026-09-28", "cat": "security", "img": "hack.png", "read": 1,
+		"prev": "mmoiparen", "next": null, "related": ["mmoiparen", "virus", "chrome"],
+		"title": {"GEO": "ხაკერებმა მონაცემები მოიპარეს", "ENG": "Hackers stole data", "RUS": "Хакеры похитили данные"}
+	},
+	{
+		"id": "mmoiparen", "date": "2026-09-25", "cat": "security", "img": "mmoiparen.png", "read": 1,
+		"prev": "virus", "next": "hack", "related": ["hack", "virus", "chrome"],
+		"title": {"GEO": "კიბერ დამნაშავეებმა ბანკი გაძარცვეს", "ENG": "Cybercriminals robbed a bank", "RUS": "Киберпреступники ограбили банк"}
+	},
+	{
+		"id": "chrome", "date": "2026-09-12", "cat": "software", "img": "chrome.png", "read": 1,
+		"prev": "routers", "next": "virus", "related": ["virus", "routers", "mmoiparen"],
+		"title": {"GEO": "ქრომი სტაბილურად აღარ მუშაობს", "ENG": "Chrome is no longer stable", "RUS": "Chrome работает нестабильно"}
+	},
+	{
+		"id": "neiro", "date": "2026-08-22", "cat": "ai", "img": "neiro.png", "read": 1,
+		"prev": "console", "next": "routers", "related": ["routers", "console", "chrome"],
+		"title": {"GEO": "ნეირო ქსელი", "ENG": "Neural networks", "RUS": "Нейросети"}
+	},
+	{
+		"id": "routers", "date": "2026-08-29", "cat": "networks", "img": "routers.png", "read": 1,
+		"prev": "neiro", "next": "chrome", "related": ["chrome", "neiro", "virus"],
+		"title": {"GEO": "როუტერების სუსტი მხარე", "ENG": "The weak spot of routers", "RUS": "Слабое место роутеров"}
+	},
+	{
+		"id": "console", "date": "2026-08-14", "cat": "gadgets", "img": "console.png", "read": 1,
+		"prev": "cripto", "next": "neiro", "related": ["neiro", "cripto", "routers"],
+		"title": {"GEO": "თანამედროვე სათამაშო კონსოლები", "ENG": "Modern game consoles", "RUS": "Современные игровые консоли"}
+	},
+	{
+		"id": "virus", "date": "2026-09-18", "cat": "security", "img": "viru.png", "read": 1,
+		"prev": "chrome", "next": "mmoiparen", "related": ["mmoiparen", "hack", "chrome"],
+		"title": {"GEO": "გავრცელდა ახალი ვირუსი", "ENG": "A new virus is spreading", "RUS": "Распространяется новый вирус"}
+	},
+	{
+		"id": "cripto", "date": "2026-08-06", "cat": "finance", "img": "cripto.png", "read": 1,
+		"prev": null, "next": "console", "related": ["console", "neiro", "routers"],
+		"title": {"GEO": "კრიპტო ვალუტა", "ENG": "Cryptocurrency", "RUS": "Криптовалюта"}
+	}
+]
